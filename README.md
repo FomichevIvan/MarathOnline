@@ -13,7 +13,13 @@
 Полная статистика по каждому марафону. 
 
 
-https://https://github.com/FomichevIvan/MarathOnline/master/img/login.png
+https://github.com/FomichevIvan/MarathOnline/blob/master/img/login.png
+
+https://github.com/FomichevIvan/MarathOnline/blob/master/img/addnew.png
+
+https://github.com/FomichevIvan/MarathOnline/blob/master/img/marathons.png
+
+https://github.com/FomichevIvan/MarathOnline/blob/master/img/start.png
 
 
 
