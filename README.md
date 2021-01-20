@@ -12,6 +12,9 @@
 Удобное участие в выбранных марафонах.
 Полная статистика по каждому марафону. 
 
+# Стек технологий:
+React, Node.js, CSS, MongoAtlas
+
 
 https://github.com/FomichevIvan/MarathOnline/blob/master/img/login.png
 
