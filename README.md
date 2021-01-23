@@ -16,7 +16,7 @@
 React, Node.js, CSS, MongoAtlas, Bootstrap
 
 
-https://github.com/FomichevIvan/MarathOnline/blob/master/img/login.png
+<img src="https://github.com/FomichevIvan/MarathOnline/blob/master/img/login.png">
 
 https://github.com/FomichevIvan/MarathOnline/blob/master/img/addnew.png
 
